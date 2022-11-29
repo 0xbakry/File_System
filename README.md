@@ -9,8 +9,9 @@ Features:
         7- Grant.                                                                                                                                                          
         
 Space allocation can be done in 2 ways:                                                                                                                                 
-                                  1- Contiguous Allocation.                                                                                                                     
-                                  2- Indexed Allocation.                                                                                                                        
+                                  1- Contiguous Allocation.                                                                                                               
+                                  2- Indexed Allocation. 
+                                  3- Linked Allocation.                                                                                                                         
                                   
 Each user has its username & password.                                                                                                                                   
 He can use its own capabilities to create or delete, as root, and ONLY root can change these permissions.                                                                 
