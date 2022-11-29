@@ -1,12 +1,13 @@
 # File_System
-Features:                                                                                                                                                                 
-        1- Create File.                                                                                                                                                  
-        2- Create Folder.                                                                                                                                                
-        3- Delete File.                                                                                                                                                   
-        4- Delete Folder.                                                                                                                                                 
-        5- Display Disk Status.                                                                                                                                          
-        6- Display Disk Structure.                                                                                                                                       
-        7- Grant.                                                                                                                                                          
+Features: 
+        You can Use help command to list these features                                                                                                                   
+                1- Create File.                                                                                                                                                  
+                2- Create Folder.                                                                                                                                                
+                3- Delete File.                                                                                                                                                   
+                4- Delete Folder.                                                                                                                                                 
+                5- Display Disk Status.                                                                                                                                          
+                6- Display Disk Structure.                                                                                                                                       
+                7- Grant.                                                                                                                                                          
         
 Space allocation can be done in 2 ways:                                                                                                                                 
                                   1- Contiguous Allocation.                                                                                                               
