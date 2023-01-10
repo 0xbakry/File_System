@@ -11,7 +11,7 @@ Features:
         
 Space allocation can be done in 2 ways:                                                                                                                                 
                                   1- Contiguous Allocation.                                                                                                               
-                                  2- Indexed Allocation. 
+                                  2- Indexed Allocation. 													         
                                   3- Linked Allocation.                                                                                                                         
                                   
 Each user has its username & password.                                                                                                                                   
