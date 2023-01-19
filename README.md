@@ -9,7 +9,7 @@ Features:
 			6- Display Disk Structure.                                                                                                                                       
 			7- Grant.                                                                                                                                                          
         
-Space allocation can be done in 2 ways:                                                                                                                                 
+Space allocation can be done in 3 ways:                                                                                                                                 
                                   1- Contiguous Allocation.                                                                                                               
                                   2- Indexed Allocation. 													         
                                   3- Linked Allocation.                                                                                                                         
